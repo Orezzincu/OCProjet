@@ -1,2 +1,2 @@
 # Projet
-Mon premier projet Github OC
+Mon premier projet Github Open Classroom
